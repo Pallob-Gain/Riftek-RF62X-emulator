@@ -1,0 +1,14 @@
+{
+  "name": "riftek-scanner-emulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "m10xcore": "^1.0.15"
+  }
+}
